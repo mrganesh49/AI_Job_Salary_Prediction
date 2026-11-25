@@ -1,0 +1,121 @@
+{
+    "categorical_options": {
+        "job_title": [
+            "AI Architect",
+            "AI Consultant",
+            "AI Product Manager",
+            "AI Research Scientist",
+            "AI Software Engineer",
+            "AI Specialist",
+            "Autonomous Systems Engineer",
+            "Computer Vision Engineer",
+            "Data Analyst",
+            "Data Engineer",
+            "Data Scientist",
+            "Deep Learning Engineer",
+            "Head of AI",
+            "ML Ops Engineer",
+            "Machine Learning Engineer",
+            "Machine Learning Researcher",
+            "NLP Engineer",
+            "Principal Data Scientist",
+            "Research Scientist",
+            "Robotics Engineer"
+        ],
+        "experience_level": [
+            "EN",
+            "EX",
+            "MI",
+            "SE"
+        ],
+        "employment_type": [
+            "CT",
+            "FL",
+            "FT",
+            "PT"
+        ],
+        "company_location": [
+            "Australia",
+            "Austria",
+            "Canada",
+            "China",
+            "Denmark",
+            "Finland",
+            "France",
+            "Germany",
+            "India",
+            "Ireland",
+            "Israel",
+            "Japan",
+            "Netherlands",
+            "Norway",
+            "Singapore",
+            "South Korea",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom",
+            "United States"
+        ],
+        "company_size": [
+            "L",
+            "M",
+            "S"
+        ],
+        "employee_residence": [
+            "Australia",
+            "Austria",
+            "Canada",
+            "China",
+            "Denmark",
+            "Finland",
+            "France",
+            "Germany",
+            "India",
+            "Ireland",
+            "Israel",
+            "Japan",
+            "Netherlands",
+            "Norway",
+            "Singapore",
+            "South Korea",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom",
+            "United States"
+        ],
+        "education_required": [
+            "Associate",
+            "Bachelor",
+            "Master",
+            "PhD"
+        ],
+        "industry": [
+            "Automotive",
+            "Consulting",
+            "Education",
+            "Energy",
+            "Finance",
+            "Gaming",
+            "Government",
+            "Healthcare",
+            "Manufacturing",
+            "Media",
+            "Real Estate",
+            "Retail",
+            "Technology",
+            "Telecommunications",
+            "Transportation"
+        ]
+    },
+    "numerical_defaults": {
+        "remote_ratio": 49.204166666666666,
+        "years_experience": 6.205166666666667,
+        "job_description_length": 1503.3065833333333,
+        "benefits_score": 7.495658333333333,
+        "posting_year": 2024.2430833333333,
+        "posting_month": 5.530666666666667,
+        "skill_count": 3.9935,
+        "requires_python": 0.29891666666666666,
+        "requires_sql": 0.22791666666666666
+    }
+}
